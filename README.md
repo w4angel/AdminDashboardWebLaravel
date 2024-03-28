@@ -8,7 +8,7 @@ Normal Access (no access to dashboard)
 email : cutie@gmail.com
 password : abcd1234
 
-Software used
+Software used :
 Visual Studio Code 1.87.2
 PHP 8.030 (cli)
 Git 2.44.0.windows.1
