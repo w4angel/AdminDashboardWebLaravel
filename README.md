@@ -24,7 +24,7 @@ To run the code,
 3. Open new Terminal inside VS Code & type
 npm run dev
 
-4. Open another new Terminal & type/
+4. Open another Terminal & type
 php artisan serve
 
 5. Go to link provided by the terminal.
